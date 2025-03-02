@@ -1,4 +1,9 @@
 # Discofy  
+[![PyPI - Version](https://img.shields.io/pypi/v/discofy.svg)](https://pypi.org/project/discofy)
+[![PyPI - Format](https://img.shields.io/pypi/format/discofy
+)](https://pypi.org/project/discofy)
+[![PyPI - License](https://img.shields.io/pypi/l/discofy
+)](https://pypi.org/project/discofy)
 
 Wanna control Spotify playback API but you don't want to pay for a Spotify Premium? No problem!  
 `Discofy` is a Python library that allows you to control Spotify playback **for free, without a premium subscription** — just by using your Discord account.  
